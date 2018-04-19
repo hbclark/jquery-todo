@@ -1,0 +1,12 @@
+*{
+    background-color: rgba(red, green, blue, .1);
+}
+body{
+    /*background-color: black; */
+}
+
+.container{
+    max-width: 600px;
+    margin:0 auto;
+
+}
